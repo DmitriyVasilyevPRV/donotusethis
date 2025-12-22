@@ -1,0 +1,7 @@
+.terraform
+.tfswitch.toml
+.terraform.lock.hcl
+terraform.tfstate*
+errored.tfstate
+*.swp
+*.bak
